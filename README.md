@@ -10,7 +10,7 @@
 🌱 I’m currently learning Data Science <br>
 🤔 I’m looking for help with Machine Learning <br>
 💬 Ask me about Data Science <br>
-📫 How to reach me: [!Facebook](https://www.facebook.com/rhsajibf.bd/) <br>
+📫 How to reach me: ![Facebook](https://www.facebook.com/rhsajibf.bd/) <br>
 😄 Pronouns: He/His <br>
 ⚡ Fun fact: Music Lover <br>
 <br>
